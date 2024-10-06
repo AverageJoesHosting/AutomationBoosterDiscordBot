@@ -43,12 +43,6 @@ No more juggling between different platforms or worrying about tedious setups—
 To add the bot to your Discord server, click the link below:
 
 🔗 [**Add Automation Booster Discord Bot**](https://discord.com/oauth2/authorize?client_id=1291526647568142407&permissions=92160&response_type=code&redirect_uri=https://averagejoeshosting.com&integration_type=0&scope=messages.read+applications.commands+bot)
-
-### Installation Contexts:
-
-*   **User Install**: Add the bot for personal use across Discord.
-    
-*   **Guild Install**: Add the bot to a server, enabling it to send notifications and interact in specified channels.
     
 
 📝 **Setup Instructions**
