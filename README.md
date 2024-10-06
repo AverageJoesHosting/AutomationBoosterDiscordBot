@@ -34,7 +34,7 @@ No more juggling between different platforms or worrying about tedious setups—
 
 ### /check-license
 
-*   **Description**: Check the status of your Automation Booster product license key.
+*   **Description**: Check the status of your Automation Booster Discord Bot product license key.
     
 
 🛠 **Installation**
