@@ -9,6 +9,8 @@ Streamline your processes by integrating powerful notification tools directly in
 
 🌟 **Get Automation Booster**:🔗 [**Click here to get Automation Booster and start streamlining your workflows!**](https://www.automationbooster.com?fpr=averagejoeshosting)
 
+![Automation Booster Screenshot](https://averagejoeshosting.com/wp-content/uploads/2024/08/automation_booster_screen.png)
+
 💡 **Bot Commands**
 -------------------
 
