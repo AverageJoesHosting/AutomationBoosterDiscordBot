@@ -5,6 +5,8 @@ Enhance your GoHighLevel automation experience on Discord with the Automation Bo
 
 Streamline your processes by integrating powerful notification tools directly into your Discord server. With easy-to-use commands, Automation Booster ensures you stay organized and efficient, without needing to jump between platforms.
 
+**Get your free bot license**:🔗 [**Click here to get your free license**](https://averagejoeshosting.com/portal/order/discord-bots-and-services/110).
+
 🌟 **Get Automation Booster**:🔗 [**Click here to get Automation Booster and start streamlining your workflows!**](https://www.automationbooster.com?fpr=averagejoeshosting)
 
 💡 **Bot Commands**
@@ -34,15 +36,20 @@ Streamline your processes by integrating powerful notification tools directly in
 
 ### /check-license
 
+*   **Description**: Check the sta
 *   **Description**: Check the status of your Automation Booster Discord Bot product license key.
     
 
 🛠 **Installation**
 -------------------
 
-To add the bot to your Discord server, click the link below:
-
-🔗 [**Add Automation Booster Discord Bot**](https://discord.com/oauth2/authorize?client_id=1291526647568142407&permissions=92160&response_type=code&redirect_uri=https://averagejoeshosting.com&integration_type=0&scope=messages.read+applications.commands+bot)
+1.  **Get your free bot license**:🔗 [**Click here to get your free license**](https://averagejoeshosting.com/portal/order/discord-bots-and-services/110).
+    
+2.  **Add the bot to your server**:🔗 [**Click here to add Automation Booster Discord Bot**](https://discord.com/oauth2/authorize?client_id=1291526647568142407&permissions=92160&response_type=code&redirect_uri=https://averagejoeshosting.com&integration_type=0&scope=messages.read+applications.commands+bot)
+    
+3.  Use /activate-license to activate your product license.
+    
+4.  Check your license status at any time with /check-license.
     
 
 📝 **Setup Instructions**
