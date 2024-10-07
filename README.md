@@ -38,7 +38,6 @@ Streamline your processes by integrating powerful notification tools directly in
 
 ### /check-license
 
-*   **Description**: Check the sta
 *   **Description**: Check the status of your Automation Booster Discord Bot product license key.
     
 
